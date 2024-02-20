@@ -1,5 +1,8 @@
 # Web Page Gehirn Research Group
 
+> [!IMPORTANT]  
+> This README is under construction, any further fix need to be approved by Team Leads
+
 ## Why is this project being made?
 
 This project serves as a pivotal initiative for our esteemed Research Group. With a definitive goal in mind, we aim to enhance our online presence by undertaking a comprehensive revamp of our existing website and blog. The primary objective is to execute a strategic and progressive development approach, phased to align with the evolving needs and advancements in the digital landscape.
@@ -20,7 +23,6 @@ This project serves as a pivotal initiative for our esteemed Research Group. Wit
 - CTA for interested viewers
 - Links to our webs
 
-## Commits
 ## Commits
 
 | Description                          | Type     | Format | Example                                    |
@@ -52,6 +54,9 @@ npm start
 ```
 
 ## Usage
+
+> [!NOTE]  
+> Team Members are allowed to make User Manuals for this Section.
 
 Here we'll put some UX stuff.
 
