@@ -21,22 +21,24 @@ This project serves as a pivotal initiative for our esteemed Research Group. Wit
 - Links to our webs
 
 ## Commits
+## Commits
 
 | Description                          | Type     | Format | Example                                    |
 |--------------------------------------|----------|--------|--------------------------------------------|
-| **Requirements and Features**        | feat     | ✨    | feat: :sparkles: Include new feature       |
-| **Change Control**                   | feat     | 💥    | feat: :boom: Service implementation        |
-| **Defects and Incidents**            | fix      | 🚧    | fix: :construction: Mapping is corrected   |
-| **Fix bugs**                         | fix      | 🐛    | fix: :bug: Mapping order fix               |
-| **Immediate correction is required** | fix      | 🚑    | fix: :ambulance: Fix flow bug              |
-| **Phase or sprint implemented**      | feat     | 📦    | feat: :package: Feature is included        |
-| **Add, update or pass tests**        | test     | ✅    | test: ::white_check_mark: New tests added  |
-| **Add or update documentation**      | docs     | 📝    | docs: :memo: Update doc                    |
-| **Add or update UI styles**          | style    | 💄    | style: :lipstick: Update UI                | 
-| **Write bad code needed review**     | refactor | 💩    | refactor: :poop: Fix this plis asklfjas    |
-| **Remove files**                     | feat     | 🔥    | feat: :fire: Remove file                   |
-| **Reverting changes**                | revert   | ⏪      | revert: :rewind: I shouldn't do that again |
-| **Improving Performance**            | perf     | ⚡      | perf: :zap: Optimizing code                |
+| **Requirements and Features**        | feat     | `:sparkles:`    | feat: :sparkles: Include new feature       |
+| **Change Control**                   | feat     | `:boom:`        | feat: :boom: Service implementation        |
+| **Defects and Incidents**            | fix      | `:construction:`| fix: :construction: Mapping is corrected   |
+| **Fix bugs**                         | fix      | `:bug:`         | fix: :bug: Mapping order fix               |
+| **Immediate correction is required** | fix      | `:ambulance:`   | fix: :ambulance: Fix flow bug              |
+| **Phase or sprint implemented**      | feat     | `:package:`     | feat: :package: Feature is included        |
+| **Add, update or pass tests**        | test     | `:white_check_mark:` | test: :white_check_mark: New tests added |
+| **Add or update documentation**      | docs     | `:memo:`        | docs: :memo: Update doc                    |
+| **Add or update UI styles**          | style    | `:lipstick:`    | style: :lipstick: Update UI                | 
+| **Write bad code needed review**     | refactor | `:poop:`        | refactor: :poop: Fix this plis asklfjas    |
+| **Remove files**                     | feat     | `:fire:`        | feat: :fire: Remove file                   |
+| **Reverting changes**                | revert   | `:rewind:`      | revert: :rewind: I shouldn't do that again |
+| **Improving Performance**            | perf     | `:zap:`         | perf: :zap: Optimizing code                |
+
 
 
 ## Installation
