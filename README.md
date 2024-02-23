@@ -1,69 +1,75 @@
-# Web Page Gehirn Research Group
+# Nuxt 3 Minimal Starter
 
-> [!IMPORTANT]  
-> This README is under construction, any further fix need to be approved by Team Leads
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Why is this project being made?
+## Setup
 
-This project serves as a pivotal initiative for our esteemed Research Group. With a definitive goal in mind, we aim to enhance our online presence by undertaking a comprehensive revamp of our existing website and blog. The primary objective is to execute a strategic and progressive development approach, phased to align with the evolving needs and advancements in the digital landscape.
-
-## Content
-
-- [Characteristics](#characteristics)
-- [Commits](#commits)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Team](#team)
-- [License](#license)
-
-## Characteristics
-
-- Basic landing page for Gehirn Research Group
-- Active Development Projects
-- CTA for interested viewers
-- Links to our webs
-
-## Commits
-
-| Description                          | Type     | Format | Example                                    |
-|--------------------------------------|----------|--------|--------------------------------------------|
-| **Requirements and Features**        | feat     | `:sparkles:`    | feat: :sparkles: Include new feature       |
-| **Change Control**                   | feat     | `:boom:`        | feat: :boom: Service implementation        |
-| **Defects and Incidents**            | fix      | `:construction:`| fix: :construction: Mapping is corrected   |
-| **Fix bugs**                         | fix      | `:bug:`         | fix: :bug: Mapping order fix               |
-| **Immediate correction is required** | fix      | `:ambulance:`   | fix: :ambulance: Fix flow bug              |
-| **Phase or sprint implemented**      | feat     | `:package:`     | feat: :package: Feature is included        |
-| **Add, update or pass tests**        | test     | `:white_check_mark:` | test: :white_check_mark: New tests added |
-| **Add or update documentation**      | docs     | `:memo:`        | docs: :memo: Update doc                    |
-| **Add or update UI styles**          | style    | `:lipstick:`    | style: :lipstick: Update UI                | 
-| **Write bad code needed review**     | refactor | `:poop:`        | refactor: :poop: Fix this plis asklfjas    |
-| **Remove files**                     | feat     | `:fire:`        | feat: :fire: Remove file                   |
-| **Reverting changes**                | revert   | `:rewind:`      | revert: :rewind: I shouldn't do that again |
-| **Improving Performance**            | perf     | `:zap:`         | perf: :zap: Optimizing code                |
-
-
-
-## Installation
-
-We'll define this section later on.
+Make sure to install the dependencies:
 
 ```bash
-# Example
+# npm
 npm install
-npm start
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
 ```
 
-## Usage
+## Development Server
 
-> [!NOTE]  
-> Team Members are allowed to make User Manuals for this Section.
+Start the development server on `http://localhost:3000`:
 
-Here we'll put some UX stuff.
+```bash
+# npm
+npm run dev
 
-## Team
+# pnpm
+pnpm run dev
 
-Are you contributing? Put something here!
+# yarn
+yarn dev
 
-## License
+# bun
+bun run dev
+```
 
-License
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm run build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm run preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
