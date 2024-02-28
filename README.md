@@ -126,6 +126,8 @@ Are you contributing? Put something here!
 
 ### Recommended Pre-Configuration
 
+Go back to: [Getting Started](#getting-started).
+
 - **SSH-Key for cloning:**
 
 | *Quick guide for SSH configuration* |
