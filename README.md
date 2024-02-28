@@ -141,11 +141,11 @@ Go back to: [Getting Started](#getting-started).
 | *Quick guide for NVM installation* |
 | --------------------------------------- |
 | **Linux or Unix Systems** |
-| 1. Go to [NVM Installation guide](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) and copy the `curl` command for installation in your terminal.|
+| 1. Go to [NVM Installation guide](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating) and copy the `curl` command for installation in your terminal, then confirm the installation using `nvm -v` command and you should see the version installed.|
 | 2. Use `nvm install` with your desire version (In this case LTS(20.11.1)) e.g.`nvm install 20`. |
 | 3. Use `nvm use` with your desire version to activate your `node` and `npm` version|
 | **Windows Systems** |
-| 1. Go to [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases), download `nvm-setup.exe` and follow the Wizard Installation.|
+| 1. Go to [NVM for Windows](https://github.com/coreybutler/nvm-windows/releases), download `nvm-setup.exe` and follow the Wizard Installation, then confirm the installation using `nvm -v` command and you should see the version installed.|
 | 2. Use `nvm install` with your desire version (In this case LTS(20.11.1)) e.g.`nvm install 20`. |
 | 3. Use `nvm use` with your desire version to activate your `node` and `npm` version|
 
