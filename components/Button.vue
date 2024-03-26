@@ -82,6 +82,7 @@ button:hover
     background: linear-gradient(to right,black 16.5%, #666666 63.5%);
     color: #F0F0F0;
     margin-top: 30px;
+    border: .5px solid rgba(255,255,255,45%);
 }
 
 

@@ -27,6 +27,6 @@ h1 {
   grid-column: 3 / span 6;
   border: 0;
   border-top: 2px solid #C857A3;
-  margin-top: -148px;
+  margin-top: -115px;
 }
 </style>
